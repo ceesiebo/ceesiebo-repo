@@ -1,4 +1,4 @@
 # ceesiebo-repo
 This is the public repository of ceesiebo
 
-This repository contains the source files of the webshop. These files are the first attempt to set up a webapplication with Angular modules.
+This repository for now contains no data. This repo must contain in the future generic solution building blocks.
